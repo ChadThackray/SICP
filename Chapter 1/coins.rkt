@@ -21,4 +21,6 @@
                      kinds-of-coins)))
         ))
 
-(cc 50 3)
+(cc 5000 3)
+
+; Order of growth is approx 2^(a + n) for time and (a + n) for space.

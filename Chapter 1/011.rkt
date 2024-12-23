@@ -10,5 +10,6 @@
   (cond ((> counter (- n 3)) a)
         (else (f2 n (inc counter) (+ a (* 2 b) (* 3 c)) a b))))
 
+
 (f1 4)
 (f2 4 0 0 1 2)
