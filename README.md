@@ -12,6 +12,9 @@ Recommend installing dr racket to your home dir or somewhere sudo permissions no
 
 Then if you use VSCode the `Magic Racket` plugin.
 
+## TODO
+ - Iterative bottom-up coin changing
+
 
 
 
